@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "NPN BJT TRANSISTOR 40V-1.5A",
+        "PN": "512-SS8050DBU",
+        "MF": "ONSEMI"
+      },
+      "MID": "MID20385",
+      "MD": "The SS8050DBU is an NPN Bipolar Junction Transistor (BJT) manufactured by onsemi (formerly Fairchild Semiconductor).\n\nKey Specifications\n\n• Transistor Type: NPN\n• Package / Case: TO-92-3 (Bulk packaging, suffix DBU)\n• Maximum Collector Current (\\(I_{C}\\)): 1.5 A\n• Collector-Emitter Breakdown Voltage (\\(V_{CEO}\\)): 25 V\n• Collector-Base Voltage (\\(V_{CBO}\\)): 40 V\n• Emitter-Base Voltage (\\(V_{EBO}\\)): 6 V\n• Power Dissipation (\\(P_{D}\\)): 1 W\n• Transition Frequency (\\(f_{T}\\)): 100 MHz\n• \\(h_{FE}\\) Classification: Grade 'D' (DC current gain ranging from 160 to 300)\n• Lifecycle Status: End-of-Life / Obsolete (scheduled for discontinuation by the manufacturer).\n\nCommon Applications\n\n• General-purpose switching circuits\n• Low-power audio and class-B amplifiers\n• Driver stages for relays, lamps, and solenoids\n• Complementary pair use with the SS8550 (PNP)",
+      "MT": "Electronic Material",
+      "MQNT": 30,
+      "MCost": 54.97,
+      "MQATG": "#CLASS_3",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20385%2Fmain%2F512-SS8050DBU.PDF",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20385/main/IMG_20261109_153141.jpg"
+      ]
+    }
+  ]
+}
